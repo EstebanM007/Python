@@ -18,6 +18,7 @@ q = a > b
 r = a < b
 s = a >= b
 
+
 print(c)
 print(d)
 print(e)
